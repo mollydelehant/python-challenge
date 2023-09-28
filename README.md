@@ -1,5 +1,11 @@
 # python-challenge
 
+update 9/28/2023
+
+I've added new python files that should show code using basic python functions rather than pandas. Apologies, I'm finding it difficult with the timing of the homework and classes to work purely in python for homework while activiely learning pandas. I will work on this going forward. 
+
+
+
 I used online resources for some areas I got stuck with (listed blow)
 
 For python bank I used online resources for the following parts of my code:
